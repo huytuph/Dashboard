@@ -1,2 +1,2 @@
 # Dashboard
-IoT Dashboard for self-hosted services
+Dashboard for self-hosted services
